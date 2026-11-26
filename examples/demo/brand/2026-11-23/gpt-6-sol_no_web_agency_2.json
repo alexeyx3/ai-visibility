@@ -1,0 +1,102 @@
+{
+"run": "2026-11-23",
+"model": "gpt-6-sol",
+"mode": "no_web",
+"icp": "agency",
+"n": 2,
+"status": "completed",
+"price": 0,
+"searches": 0,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 3.66,
+"ease": 4.08,
+"integrations": 3.66,
+"pricing": 3.5,
+"trust": 4.22,
+"known": false,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 3.62,
+"ease": 3.29,
+"integrations": 3.67,
+"pricing": 3.33,
+"trust": 3.09,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 2.67,
+"ease": 2.74,
+"integrations": 2.95,
+"pricing": 2.3,
+"trust": 2.72,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 3.27,
+"ease": 2.98,
+"integrations": 3.09,
+"pricing": 3.28,
+"trust": 3.61,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 2.79,
+"ease": 3.04,
+"integrations": 3.17,
+"pricing": 2.55,
+"trust": 2.5,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 4.68,
+"ease": 4.28,
+"integrations": 3.94,
+"pricing": 4.64,
+"trust": 4.21,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 4.32,
+"ease": 4.49,
+"integrations": 3.96,
+"pricing": 4.46,
+"trust": 4.01,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 3.61,
+"ease": 3.59,
+"integrations": 3.07,
+"pricing": 3.1,
+"trust": 3.25,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [],
+"sources": []
+}

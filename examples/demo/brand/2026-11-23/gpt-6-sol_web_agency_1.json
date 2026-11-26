@@ -1,0 +1,106 @@
+{
+"run": "2026-11-23",
+"model": "gpt-6-sol",
+"mode": "web",
+"icp": "agency",
+"n": 1,
+"status": "completed",
+"price": 0,
+"searches": 3,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 3.87,
+"ease": 3.94,
+"integrations": 3.53,
+"pricing": 4.13,
+"trust": 3.69,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 4.37,
+"ease": 4.1,
+"integrations": 3.96,
+"pricing": 4.06,
+"trust": 4.36,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 3.55,
+"ease": 3.51,
+"integrations": 3.88,
+"pricing": 3.92,
+"trust": 3.77,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 3.08,
+"ease": 2.61,
+"integrations": 2.84,
+"pricing": 2.97,
+"trust": 3.37,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 4.07,
+"ease": 3.74,
+"integrations": 3.55,
+"pricing": 3.56,
+"trust": 4.13,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 3.71,
+"ease": 3.49,
+"integrations": 3.87,
+"pricing": 4.01,
+"trust": 3.8,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 3.2,
+"ease": 3.4,
+"integrations": 2.84,
+"pricing": 2.69,
+"trust": 2.93,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 3.5,
+"ease": 3.12,
+"integrations": 3.59,
+"pricing": 3.55,
+"trust": 3.36,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [
+"таск-трекер для небольшой команды отзывы"
+],
+"sources": [
+"https://techreview.example/best-task-trackers"
+]
+}

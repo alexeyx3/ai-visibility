@@ -1,0 +1,63 @@
+{
+  "brand": {
+    "name": "Тасколёт",
+    "site": "taskolet.example",
+    "patterns": ["Тасколёт", "Тасколет", "Taskolet"]
+  },
+  "own_sites": ["blog.taskolet.example"],
+  "publications": "examples/publications.txt",
+  "competitors": [
+    {"name": "Trello",  "domain": "trello.com",  "patterns": ["\\bTrello\\b"]},
+    {"name": "Asana",   "domain": "asana.com",   "patterns": ["\\bAsana\\b"]},
+    {"name": "Notion",  "domain": "notion.so",   "patterns": ["\\bNotion\\b"]},
+    {"name": "ClickUp", "domain": "clickup.com", "patterns": ["\\bClick\\s?Up\\b"]},
+    {"name": "Jira",    "domain": "atlassian.com", "patterns": ["\\bJira\\b"]},
+    {"name": "Kaiten",  "domain": "kaiten.ru",   "patterns": ["\\bKaiten\\b", "\\bКайтен\\b"]},
+    {"name": "YouGile", "domain": "yougile.com", "patterns": ["\\bYou\\s?Gile\\b"]},
+    {"name": "Weeek",   "domain": "weeek.net",   "patterns": ["\\bWeeek\\b"]}
+  ],
+  "questions": "examples/questions.json",
+  "locations": {"ru": 2398, "en": 2840},
+  "topics": {
+    "list": [
+      {"key": "free",    "label": "Бесплатные тарифы",         "pattern": "бесплатн|\\bfree\\b"},
+      {"key": "agile",   "label": "Скрам и канбан",            "pattern": "scrum|скрам|kanban|канбан|agile"},
+      {"key": "migrate", "label": "Переезд с другого сервиса", "pattern": "замен|альтернатив|alternative|instead of|migrat|переех"}
+    ],
+    "default": {"key": "pick", "label": "Выбор таск-трекера"}
+  },
+  "stages": {"solution_aware": "Ищет сервис", "problem_aware": "Ищет способ решить задачу", "informational": "Разбирается в теме"},
+  "analysis": {
+    "company_kinds": "task trackers, project management and work management tools, collaboration suites, CRM systems with task features",
+    "not_companies": "methodologies and frameworks (Scrum, Kanban, Agile, GTD), file formats, operating systems, browsers",
+    "suffixes": ["software", "work management", "project management"]
+  },
+  "brand_score": {
+    "scenarios": [
+      {"key": "small_team", "label": "Небольшая команда, вопрос на русском", "file": "examples/score_small_team.txt"},
+      {"key": "agency", "label": "Агентство, вопрос на английском", "file": "examples/score_agency.txt", "exclude": ["Weeek"]}
+    ],
+    "criteria": {
+      "overall":      {"label": "Итоговая рекомендация", "ask": {"ru": "насколько сильно ты рекомендуешь его именно мне", "en": "how strongly you'd recommend it to me specifically"}},
+      "ease":         {"label": "Простота для команды",  "ask": {"ru": "насколько быстро команда начнёт им пользоваться", "en": "how quickly my team can start using it"}},
+      "integrations": {"label": "Интеграции",            "ask": {"ru": "связка с почтой, календарём, мессенджерами и Git", "en": "integrations with email, calendar, chat and Git"}},
+      "pricing":      {"label": "Цена и тарифы",         "ask": {"ru": "прозрачность тарифов и цена за то, что я получаю", "en": "transparency of pricing and value for money"}},
+      "trust":        {"label": "Доверие",               "ask": {"ru": "репутация и насколько уверенно ты его советуешь", "en": "reputation and how confident you are recommending it"}}
+    },
+    "models": {"gpt-6-sol": "GPT-6 Sol", "gemini-3.8-flash": "Gemini 3.8 Flash"},
+    "openrouter": {"model": "anthropic/claude-sonnet-5.5", "label": "claude-sonnet-5-5", "title": "Claude Sonnet 5.5"},
+    "runs": 2
+  },
+  "site": {
+    "title": "Видимость Тасколёта в ИИ",
+    "audience": "покупатель, когда выбирает таск-трекер для небольшой команды",
+    "geo": "Русские вопросы задаются с географией «Казахстан», английские — «США»."
+  },
+  "flymy": {
+    "app": "your-login/ai-visibility-taskolet",
+    "collector": "",
+    "brand_agent": "",
+    "site_id": "",
+    "site_url": ""
+  }
+}

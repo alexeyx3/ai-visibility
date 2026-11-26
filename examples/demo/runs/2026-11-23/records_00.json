@@ -1,0 +1,3667 @@
+{
+"run": "2026-11-23",
+"chunk": "00",
+"records": [
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Notion** — база знаний и задачи в одном месте.\n2. **YouGile** — доски и встроенный чат.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **Weeek** — лёгкий трекер с календарём.\n5. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n6. **Jira** — стандарт для разработчиков, тяжеловат для остальных.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"какой таск-трекер выбрать для команды из 10 человек?",
+"лучшие таск-трекеры 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Trello** — классические канбан-доски, удобно для старта.\n2. **Asana** — сильные проекты и сроки, но дороже.\n3. **ClickUp** — много функций, нужен вход.\n4. **Kaiten** — канбан с метриками потока.\n5. **YouGile** — доски и встроенный чат.\n6. **Jira** — стандарт для разработчиков, тяжеловат для остальных.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **YouGile** — доски и встроенный чат.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n5. **Monday.com** — гибкие таблицы и автоматизации.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Basecamp** — проекты и общение клиентов.\n2. **ClickUp** — много функций, нужен вход.\n3. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Вот что стоит рассмотреть:\n1. **ClickUp** — много функций, нужен вход.\n2. **Asana** — сильные проекты и сроки, но дороже.\n3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n4. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n5. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q01",
+"prompt": "Какой таск-трекер выбрать для команды из 10 человек?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Вот что стоит рассмотреть:\n1. **YouGile** — доски и встроенный чат.\n2. **Trello** — классические канбан-доски, удобно для старта.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Basecamp** — проекты и общение клиентов.\n5. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n6. **Kaiten** — канбан с метриками потока.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"какой таск-трекер выбрать для команды из 10 человек?",
+"лучшие таск-трекеры 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Weeek** — лёгкий трекер с календарём.\n3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n4. **Asana** — сильные проекты и сроки, но дороже.\nТасколёт — сервис молодой, отзывов о нём пока мало: проверьте на пробном периоде.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"лучшие бесплатные таск-трекеры для небольшой команды",
+"лучшие таск-трекеры 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Kaiten** — канбан с метриками потока.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **ClickUp** — много функций, нужен вход.\n5. **Trello** — классические канбан-доски, удобно для старта.\n6. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **YouGile** — доски и встроенный чат.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n5. **Asana** — сильные проекты и сроки, но дороже.\n6. **ClickUp** — много функций, нужен вход.\n7. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Basecamp** — проекты и общение клиентов.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Вот что стоит рассмотреть:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **YouGile** — доски и встроенный чат.\n4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"sources": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q02",
+"prompt": "Лучшие бесплатные таск-трекеры для небольшой команды",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Вот что стоит рассмотреть:\n1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n2. **Basecamp** — проекты и общение клиентов.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **Asana** — сильные проекты и сроки, но дороже.\n5. **Monday.com** — гибкие таблицы и автоматизации.\n6. **Jira** — стандарт для разработчиков, тяжеловат для остальных.",
+"sources": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+}
+],
+"found": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"лучшие бесплатные таск-трекеры для небольшой команды",
+"лучшие таск-трекеры 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Basecamp** — проекты и общение клиентов.\n2. **Kaiten** — канбан с метриками потока.\n3. **Weeek** — лёгкий трекер с календарём.\n4. **Trello** — классические канбан-доски, удобно для старта.\n5. **YouGile** — доски и встроенный чат.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [
+"чем заменить trello, если команда выросла?",
+"лучшие таск-трекеры 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **Asana** — сильные проекты и сроки, но дороже.\n5. **Jira** — стандарт для разработчиков, тяжеловат для остальных.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.substack.example/p/why-we-built-it",
+"domain": "taskolet.substack.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.substack.example/p/why-we-built-it",
+"domain": "taskolet.substack.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Monday.com** — гибкие таблицы и автоматизации.\n2. **Kaiten** — канбан с метриками потока.\n3. **Notion** — база знаний и задачи в одном месте.\n4. **Weeek** — лёгкий трекер с календарём.\n5. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **ClickUp** — много функций, нужен вход.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **Weeek** — лёгкий трекер с календарём.\n4. **Notion** — база знаний и задачи в одном месте.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Вот что стоит рассмотреть:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **Kaiten** — канбан с метриками потока.\n3. **Monday.com** — гибкие таблицы и автоматизации.\n4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n5. **Trello** — классические канбан-доски, удобно для старта.\n6. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q03",
+"prompt": "Чем заменить Trello, если команда выросла?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"solution_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Вот что стоит рассмотреть:\n1. **Asana** — сильные проекты и сроки, но дороже.\n2. **Basecamp** — проекты и общение клиентов.\n3. **YouGile** — доски и встроенный чат.\n4. **Weeek** — лёгкий трекер с календарём.\n5. **Kaiten** — канбан с метриками потока.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+}
+],
+"fanout": [
+"чем заменить trello, если команда выросла?",
+"лучшие таск-трекеры 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **YouGile** — доски и встроенный чат.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Kaiten** — канбан с метриками потока.\n5. **Basecamp** — проекты и общение клиентов.\n6. **Monday.com** — гибкие таблицы и автоматизации.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"лучшие таск-трекеры 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Kaiten** — канбан с метриками потока.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Monday.com** — гибкие таблицы и автоматизации.\n4. **Trello** — классические канбан-доски, удобно для старта.\n5. **YouGile** — доски и встроенный чат.\n6. **Basecamp** — проекты и общение клиентов.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **ClickUp** — много функций, нужен вход.\n4. **YouGile** — доски и встроенный чат.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Вот что стоит рассмотреть:\n1. **Monday.com** — гибкие таблицы и автоматизации.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Basecamp** — проекты и общение клиентов.\n4. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n5. **YouGile** — доски и встроенный чат.\n6. **Trello** — классические канбан-доски, удобно для старта.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Вот что стоит рассмотреть:\n1. **Monday.com** — гибкие таблицы и автоматизации.\n2. **Trello** — классические канбан-доски, удобно для старта.\n3. **Kaiten** — канбан с метриками потока.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q04",
+"prompt": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"lang": "ru",
+"loc_code": 2398,
+"tags": [
+"problem_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Вот что стоит рассмотреть:\n1. **Asana** — сильные проекты и сроки, но дороже.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://reviews.example/best-task-trackers-2026",
+"domain": "reviews.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://reviews.example/best-task-trackers-2026",
+"domain": "reviews.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"как вести канбан-доску на удалёнке, чтобы задачи не терялись?",
+"лучшие таск-трекеры 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **Basecamp** — проекты и общение клиентов.\n4. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n5. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"best task tracker for a small agency",
+"best task trackers 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Kaiten** — канбан с метриками потока.\n2. **Asana** — сильные проекты и сроки, но дороже.\n3. **ClickUp** — много функций, нужен вход.\n4. **Weeek** — лёгкий трекер с календарём.\n5. **Trello** — классические канбан-доски, удобно для старта.\n6. **Monday.com** — гибкие таблицы и автоматизации.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://taskolet.substack.example/p/why-we-built-it",
+"domain": "taskolet.substack.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://taskolet.substack.example/p/why-we-built-it",
+"domain": "taskolet.substack.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Notion** — база знаний и задачи в одном месте.\n2. **Weeek** — лёгкий трекер с календарём.\n3. **ClickUp** — много функций, нужен вход.\n4. **Kaiten** — канбан с метриками потока.\n5. **Trello** — классические канбан-доски, удобно для старта.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **YouGile** — доски и встроенный чат.\n2. **ClickUp** — много функций, нужен вход.\n3. **Kaiten** — канбан с метриками потока.\n4. **Notion** — база знаний и задачи в одном месте.\n5. **Trello** — классические канбан-доски, удобно для старта.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Here are good options:\n1. **Monday.com** — гибкие таблицы и автоматизации.\n2. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Trello** — классические канбан-доски, удобно для старта.\n5. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q05",
+"prompt": "best task tracker for a small agency",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Here are good options:\n1. **YouGile** — доски и встроенный чат.\n2. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n3. **Basecamp** — проекты и общение клиентов.\n4. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"best task tracker for a small agency",
+"best task trackers 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Trello** — классические канбан-доски, удобно для старта.\n3. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+}
+],
+"fanout": [
+"jira alternative for a non-technical team",
+"best task trackers 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Trello** — классические канбан-доски, удобно для старта.\n2. **Kaiten** — канбан с метриками потока.\n3. **YouGile** — доски и встроенный чат.\n4. **Notion** — база знаний и задачи в одном месте.\n5. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n6. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n7. **Asana** — сильные проекты и сроки, но дороже.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://trello.com/",
+"domain": "trello.com",
+"title": "Trello"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Weeek** — лёгкий трекер с календарём.\n3. **Notion** — база знаний и задачи в одном месте.\n4. **Monday.com** — гибкие таблицы и автоматизации.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "ai_overview",
+"status": "no_answer",
+"attempts": 1,
+"cost": 0.004,
+"text": "",
+"sources": [],
+"found": [],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": false
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Here are good options:\n1. **ClickUp** — много функций, нужен вход.\n2. **Weeek** — лёгкий трекер с календарём.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Kaiten** — канбан с метриками потока.\n5. **YouGile** — доски и встроенный чат.\n6. **Basecamp** — проекты и общение клиентов.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q06",
+"prompt": "Jira alternative for a non-technical team",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"solution_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Here are good options:\n1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n2. **YouGile** — доски и встроенный чат.\n3. **Kaiten** — канбан с метриками потока.\n4. **Trello** — классические канбан-доски, удобно для старта.\n5. **Basecamp** — проекты и общение клиентов.",
+"sources": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+}
+],
+"fanout": [
+"jira alternative for a non-technical team",
+"best task trackers 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Basecamp** — проекты и общение клиентов.\n2. **ClickUp** — много функций, нужен вход.\n3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n4. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n5. **Trello** — классические канбан-доски, удобно для старта.\n6. **Monday.com** — гибкие таблицы и автоматизации.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [
+"how to run scrum sprints in a team of 8 without heavy tools",
+"best task trackers 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **ClickUp** — много функций, нужен вход.\n2. **Kaiten** — канбан с метриками потока.\n3. **Notion** — база знаний и задачи в одном месте.\n4. **Trello** — классические канбан-доски, удобно для старта.\n5. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://clickup.com/",
+"domain": "clickup.com",
+"title": "ClickUp"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n2. **Asana** — сильные проекты и сроки, но дороже.\n3. **Notion** — база знаний и задачи в одном месте.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://atlassian.com/",
+"domain": "atlassian.com",
+"title": "Jira"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://blog.taskolet.example/sprints-without-pain",
+"domain": "blog.taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Basecamp** — проекты и общение клиентов.\n2. **YouGile** — доски и встроенный чат.\n3. **Kaiten** — канбан с метриками потока.\n4. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+}
+],
+"found": [
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Here are good options:\n1. **Monday.com** — гибкие таблицы и автоматизации.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **YouGile** — доски и встроенный чат.\n5. **Kaiten** — канбан с метриками потока.\n6. **Jira** — стандарт для разработчиков, тяжеловат для остальных.",
+"sources": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q07",
+"prompt": "how to run scrum sprints in a team of 8 without heavy tools",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"problem_aware"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Here are good options:\n1. **YouGile** — доски и встроенный чат.\n2. **Weeek** — лёгкий трекер с календарём.\n3. **Trello** — классические канбан-доски, удобно для старта.",
+"sources": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+}
+],
+"found": [
+{
+"url": "https://g2.example/best-task-trackers",
+"domain": "g2.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+}
+],
+"fanout": [
+"how to run scrum sprints in a team of 8 without heavy tools",
+"best task trackers 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "chatgpt",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+}
+],
+"found": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [
+"what is the difference between a task tracker and a project management tool",
+"best task trackers 2026"
+],
+"model": "gpt-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "gemini",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Weeek** — лёгкий трекер с календарём.\n2. **YouGile** — доски и встроенный чат.\n3. **Asana** — сильные проекты и сроки, но дороже.\n4. **ClickUp** — много функций, нужен вход.\n5. **Kaiten** — канбан с метриками потока.\n6. **Notion** — база знаний и задачи в одном месте.",
+"sources": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://weeek.net/",
+"domain": "weeek.net",
+"title": "Weeek"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://startups.example/tasks",
+"domain": "startups.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "gemini-3",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "ai_mode",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Basecamp** — проекты и общение клиентов.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Trello** — классические канбан-доски, удобно для старта.\n4. **ClickUp** — много функций, нужен вход.\n5. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+}
+],
+"found": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://habr.example/best-task-trackers",
+"domain": "habr.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://vc.example/tasks",
+"domain": "vc.example",
+"title": ""
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_mode",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "ai_overview",
+"status": "ok",
+"attempts": 1,
+"cost": 0.004,
+"text": "Here are good options:\n1. **Asana** — сильные проекты и сроки, но дороже.\n2. **Monday.com** — гибкие таблицы и автоматизации.\n3. **ClickUp** — много функций, нужен вход.\n4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n5. **Notion** — база знаний и задачи в одном месте.\n6. **Trello** — классические канбан-доски, удобно для старта.\n7. **Weeek** — лёгкий трекер с календарём.",
+"sources": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://reddit.example/best-task-trackers",
+"domain": "reddit.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://asana.com/",
+"domain": "asana.com",
+"title": "Asana"
+},
+{
+"url": "https://taskolet.example/pricing",
+"domain": "taskolet.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://g2.example/tasks",
+"domain": "g2.example",
+"title": ""
+},
+{
+"url": "https://taskolet.example/blog/kanban-for-small-teams",
+"domain": "taskolet.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "google_ai_overview",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "perplexity",
+"status": "ok",
+"attempts": 1,
+"cost": 0.015,
+"text": "Here are good options:\n1. **Kaiten** — канбан с метриками потока.\n2. **Notion** — база знаний и задачи в одном месте.\n3. **Jira** — стандарт для разработчиков, тяжеловат для остальных.\n4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n5. **Trello** — классические канбан-доски, удобно для старта.\n6. **Basecamp** — проекты и общение клиентов.",
+"sources": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+}
+],
+"found": [
+{
+"url": "https://techreview.example/best-task-trackers",
+"domain": "techreview.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://productivity.example/best-task-trackers",
+"domain": "productivity.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://notion.so/",
+"domain": "notion.so",
+"title": "Notion"
+},
+{
+"url": "https://media.example/articles/how-we-run-kanban",
+"domain": "media.example",
+"title": "Тасколёт: как вести задачи в небольшой команде"
+},
+{
+"url": "https://habr.example/tasks",
+"domain": "habr.example",
+"title": ""
+},
+{
+"url": "https://reddit.example/tasks",
+"domain": "reddit.example",
+"title": ""
+}
+],
+"fanout": [],
+"model": "sonar-pro",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+},
+{
+"run": "2026-11-23",
+"prompt_id": "q08",
+"prompt": "what is the difference between a task tracker and a project management tool",
+"lang": "en",
+"loc_code": 2840,
+"tags": [
+"informational"
+],
+"channel": "claude",
+"status": "ok",
+"attempts": 1,
+"cost": 0.052,
+"text": "Here are good options:\n1. **YouGile** — доски и встроенный чат.\n2. **Kaiten** — канбан с метриками потока.\n3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.\n4. **Basecamp** — проекты и общение клиентов.\n5. **Notion** — база знаний и задачи в одном месте.",
+"sources": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+}
+],
+"found": [
+{
+"url": "https://startups.example/best-task-trackers",
+"domain": "startups.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://vc.example/best-task-trackers",
+"domain": "vc.example",
+"title": "Лучшие таск-трекеры 2026"
+},
+{
+"url": "https://yougile.com/",
+"domain": "yougile.com",
+"title": "YouGile"
+},
+{
+"url": "https://kaiten.ru/",
+"domain": "kaiten.ru",
+"title": "Kaiten"
+},
+{
+"url": "https://techreview.example/tasks",
+"domain": "techreview.example",
+"title": ""
+},
+{
+"url": "https://productivity.example/tasks",
+"domain": "productivity.example",
+"title": ""
+}
+],
+"fanout": [
+"what is the difference between a task tracker and a project management tool",
+"best task trackers 2026"
+],
+"model": "claude-sonnet-5-5",
+"answered": true,
+"searched": true,
+"asked_at": "2026-11-23 09:00:00 +00:00"
+}
+]
+}

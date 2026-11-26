@@ -1,0 +1,113 @@
+{
+"run": "2026-11-23",
+"model": "gpt-6-sol",
+"mode": "no_web",
+"icp": "small_team",
+"n": 1,
+"status": "completed",
+"price": 0,
+"searches": 0,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 4.16,
+"ease": 3.85,
+"integrations": 3.54,
+"pricing": 3.88,
+"trust": 3.8,
+"known": false,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 4.01,
+"ease": 4.15,
+"integrations": 4.57,
+"pricing": 3.88,
+"trust": 4.18,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 4.27,
+"ease": 3.69,
+"integrations": 3.69,
+"pricing": 3.71,
+"trust": 4.4,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 3.26,
+"ease": 3.38,
+"integrations": 2.93,
+"pricing": 2.88,
+"trust": 3.43,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 3.52,
+"ease": 3.88,
+"integrations": 3.56,
+"pricing": 3.53,
+"trust": 3.31,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 4.29,
+"ease": 4.07,
+"integrations": 4.31,
+"pricing": 3.58,
+"trust": 3.75,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 3.82,
+"ease": 3.82,
+"integrations": 3.36,
+"pricing": 3.26,
+"trust": 3.4,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 3.83,
+"ease": 3.23,
+"integrations": 3.73,
+"pricing": 3.68,
+"trust": 3.75,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Weeek",
+"overall": 4.08,
+"ease": 3.85,
+"integrations": 3.85,
+"pricing": 3.88,
+"trust": 4.22,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [],
+"sources": []
+}

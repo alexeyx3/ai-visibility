@@ -1,0 +1,7 @@
+# ключи и данные конкретного проекта
+config/
+project.json
+out/
+.cache/
+__pycache__/
+.DS_Store

@@ -1,0 +1,117 @@
+{
+"run": "2026-11-23",
+"model": "gpt-6-sol",
+"mode": "web",
+"icp": "small_team",
+"n": 1,
+"status": "completed",
+"price": 0,
+"searches": 3,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 4.22,
+"ease": 3.73,
+"integrations": 3.8,
+"pricing": 3.81,
+"trust": 4.3,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 3.55,
+"ease": 3.6,
+"integrations": 3.48,
+"pricing": 3.3,
+"trust": 3.34,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 3.93,
+"ease": 4.45,
+"integrations": 3.9,
+"pricing": 3.91,
+"trust": 4.11,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 2.84,
+"ease": 3.31,
+"integrations": 3.25,
+"pricing": 3.19,
+"trust": 3.05,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 4.6,
+"ease": 4.28,
+"integrations": 4.42,
+"pricing": 3.88,
+"trust": 4.43,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 3.61,
+"ease": 3.53,
+"integrations": 3.24,
+"pricing": 3.05,
+"trust": 3.75,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 2.81,
+"ease": 2.7,
+"integrations": 2.67,
+"pricing": 3.02,
+"trust": 3.21,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 3.19,
+"ease": 2.91,
+"integrations": 3.11,
+"pricing": 2.98,
+"trust": 2.8,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Weeek",
+"overall": 2.66,
+"ease": 3.22,
+"integrations": 2.89,
+"pricing": 2.67,
+"trust": 3.22,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [
+"таск-трекер для небольшой команды отзывы"
+],
+"sources": [
+"https://techreview.example/best-task-trackers"
+]
+}

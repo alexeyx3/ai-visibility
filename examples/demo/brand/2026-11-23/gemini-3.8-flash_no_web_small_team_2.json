@@ -1,0 +1,113 @@
+{
+"run": "2026-11-23",
+"model": "gemini-3.8-flash",
+"mode": "no_web",
+"icp": "small_team",
+"n": 2,
+"status": "completed",
+"price": 0,
+"searches": 0,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 4.15,
+"ease": 4.01,
+"integrations": 4.16,
+"pricing": 4.01,
+"trust": 3.73,
+"known": false,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 2.46,
+"ease": 2.99,
+"integrations": 2.54,
+"pricing": 2.64,
+"trust": 2.72,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 2.44,
+"ease": 2.46,
+"integrations": 2.81,
+"pricing": 2.53,
+"trust": 2.49,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 4.34,
+"ease": 4.62,
+"integrations": 4.43,
+"pricing": 3.96,
+"trust": 4.27,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 3.6,
+"ease": 3.26,
+"integrations": 3.55,
+"pricing": 3.42,
+"trust": 3.16,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 3.82,
+"ease": 4.41,
+"integrations": 3.89,
+"pricing": 3.75,
+"trust": 3.91,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 4.35,
+"ease": 3.58,
+"integrations": 3.96,
+"pricing": 3.97,
+"trust": 4.21,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 2.93,
+"ease": 2.81,
+"integrations": 3.2,
+"pricing": 2.74,
+"trust": 3.29,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Weeek",
+"overall": 2.88,
+"ease": 3.27,
+"integrations": 3.11,
+"pricing": 2.8,
+"trust": 3.22,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [],
+"sources": []
+}

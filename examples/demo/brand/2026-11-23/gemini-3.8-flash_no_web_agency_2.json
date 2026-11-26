@@ -1,0 +1,102 @@
+{
+"run": "2026-11-23",
+"model": "gemini-3.8-flash",
+"mode": "no_web",
+"icp": "agency",
+"n": 2,
+"status": "completed",
+"price": 0,
+"searches": 0,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 3.63,
+"ease": 3.76,
+"integrations": 3.65,
+"pricing": 4.28,
+"trust": 4.08,
+"known": false,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 3.15,
+"ease": 2.46,
+"integrations": 2.69,
+"pricing": 3.17,
+"trust": 3.02,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 3.87,
+"ease": 3.68,
+"integrations": 4.03,
+"pricing": 3.61,
+"trust": 3.69,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 2.93,
+"ease": 3.22,
+"integrations": 3.53,
+"pricing": 3.45,
+"trust": 3.3,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 3.71,
+"ease": 3.45,
+"integrations": 3.82,
+"pricing": 3.66,
+"trust": 3.93,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 4.18,
+"ease": 4.29,
+"integrations": 4.43,
+"pricing": 4.17,
+"trust": 4.02,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 4.2,
+"ease": 4.12,
+"integrations": 4.06,
+"pricing": 4.18,
+"trust": 4.04,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 3.72,
+"ease": 3.61,
+"integrations": 3.86,
+"pricing": 3.43,
+"trust": 3.69,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [],
+"sources": []
+}

@@ -1,0 +1,1204 @@
+{
+"run": "2026-11-23",
+"model": "demo",
+"items": {
+"q01|chatgpt": {
+"companies": [
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+}
+],
+"our": {
+"stance": "top_pick",
+"quote": "5. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q01|gemini": {
+"companies": [
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+}
+]
+},
+"q01|ai_mode": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+}
+]
+},
+"q01|ai_overview": {
+"companies": [
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q01|perplexity": {
+"companies": [
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+],
+"our": {
+"stance": "listed",
+"quote": "3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q01|claude": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+}
+]
+},
+"q02|chatgpt": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+],
+"our": {
+"stance": "caution",
+"quote": "3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q02|gemini": {
+"companies": [
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q02|ai_mode": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q02|ai_overview": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+]
+},
+"q02|perplexity": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+}
+],
+"our": {
+"stance": "top_pick",
+"quote": "4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q02|claude": {
+"companies": [
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q03|chatgpt": {
+"companies": [
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+}
+]
+},
+"q03|gemini": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+}
+]
+},
+"q03|ai_mode": {
+"companies": [
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+]
+},
+"q03|ai_overview": {
+"companies": [
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+}
+]
+},
+"q03|perplexity": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q03|claude": {
+"companies": [
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+}
+]
+},
+"q04|chatgpt": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+}
+]
+},
+"q04|gemini": {
+"companies": [
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+}
+]
+},
+"q04|ai_mode": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+}
+]
+},
+"q04|ai_overview": {
+"companies": [
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+}
+]
+},
+"q04|perplexity": {
+"companies": [
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+}
+]
+},
+"q04|claude": {
+"companies": [
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q05|chatgpt": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+]
+},
+"q05|gemini": {
+"companies": [
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+}
+]
+},
+"q05|ai_mode": {
+"companies": [
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+}
+]
+},
+"q05|ai_overview": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+}
+]
+},
+"q05|perplexity": {
+"companies": [
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q05|claude": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+]
+},
+"q06|chatgpt": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+]
+},
+"q06|gemini": {
+"companies": [
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "6. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q06|ai_mode": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+}
+]
+},
+"q06|perplexity": {
+"companies": [
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+}
+]
+},
+"q06|claude": {
+"companies": [
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q07|chatgpt": {
+"companies": [
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+}
+],
+"our": {
+"stance": "listed",
+"quote": "3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q07|gemini": {
+"companies": [
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q07|ai_mode": {
+"companies": [
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+}
+]
+},
+"q07|ai_overview": {
+"companies": [
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q07|perplexity": {
+"companies": [
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+}
+]
+},
+"q07|claude": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+}
+]
+},
+"q08|chatgpt": {
+"companies": [
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+],
+"our": {
+"stance": "recommended",
+"quote": "1. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q08|gemini": {
+"companies": [
+{
+"name": "Weeek",
+"recommended": true
+},
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+}
+]
+},
+"q08|ai_mode": {
+"companies": [
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+]
+},
+"q08|ai_overview": {
+"companies": [
+{
+"name": "Asana",
+"recommended": true
+},
+{
+"name": "Monday.com",
+"recommended": true
+},
+{
+"name": "ClickUp",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Weeek",
+"recommended": true
+}
+],
+"our": {
+"stance": "top_pick",
+"quote": "4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q08|perplexity": {
+"companies": [
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+},
+{
+"name": "Jira",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Trello",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+}
+],
+"our": {
+"stance": "listed",
+"quote": "4. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+},
+"q08|claude": {
+"companies": [
+{
+"name": "YouGile",
+"recommended": true
+},
+{
+"name": "Kaiten",
+"recommended": true
+},
+{
+"name": "Тасколёт",
+"recommended": true
+},
+{
+"name": "Basecamp",
+"recommended": true
+},
+{
+"name": "Notion",
+"recommended": true
+}
+],
+"our": {
+"stance": "top_pick",
+"quote": "3. **Тасколёт** — простой трекер с канбаном и спринтами, понятный без обучения.",
+"why": "Выдуманный пример тона для демонстрации."
+}
+}
+}
+}

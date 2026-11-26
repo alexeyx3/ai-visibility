@@ -1,0 +1,10 @@
+[
+ {"id": "q01", "text": "Какой таск-трекер выбрать для команды из 10 человек?", "lang": "ru", "tags": ["solution_aware"]},
+ {"id": "q02", "text": "Лучшие бесплатные таск-трекеры для небольшой команды", "lang": "ru", "tags": ["solution_aware"]},
+ {"id": "q03", "text": "Чем заменить Trello, если команда выросла?", "lang": "ru", "tags": ["solution_aware"]},
+ {"id": "q04", "text": "Как вести канбан-доску на удалёнке, чтобы задачи не терялись?", "lang": "ru", "tags": ["problem_aware"]},
+ {"id": "q05", "text": "best task tracker for a small agency", "lang": "en", "tags": ["solution_aware"]},
+ {"id": "q06", "text": "Jira alternative for a non-technical team", "lang": "en", "tags": ["solution_aware"]},
+ {"id": "q07", "text": "how to run scrum sprints in a team of 8 without heavy tools", "lang": "en", "tags": ["problem_aware"]},
+ {"id": "q08", "text": "what is the difference between a task tracker and a project management tool", "lang": "en", "tags": ["informational"]}
+]

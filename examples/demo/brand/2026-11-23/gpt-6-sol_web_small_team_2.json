@@ -1,0 +1,117 @@
+{
+"run": "2026-11-23",
+"model": "gpt-6-sol",
+"mode": "web",
+"icp": "small_team",
+"n": 2,
+"status": "completed",
+"price": 0,
+"searches": 3,
+"rows": [
+{
+"platform": "Тасколёт",
+"overall": 4.3,
+"ease": 3.86,
+"integrations": 3.61,
+"pricing": 3.65,
+"trust": 3.57,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": "Выдуманное возражение: мало отзывов."
+},
+{
+"platform": "Trello",
+"overall": 2.89,
+"ease": 3.01,
+"integrations": 3.02,
+"pricing": 3.27,
+"trust": 3.53,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Asana",
+"overall": 3.88,
+"ease": 3.88,
+"integrations": 3.97,
+"pricing": 3.85,
+"trust": 3.82,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Notion",
+"overall": 2.53,
+"ease": 3.09,
+"integrations": 2.41,
+"pricing": 2.71,
+"trust": 2.82,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "ClickUp",
+"overall": 3.93,
+"ease": 3.97,
+"integrations": 3.95,
+"pricing": 4.07,
+"trust": 4.11,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Jira",
+"overall": 4.6,
+"ease": 4.62,
+"integrations": 3.93,
+"pricing": 3.94,
+"trust": 4.48,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Kaiten",
+"overall": 4.19,
+"ease": 4.28,
+"integrations": 3.81,
+"pricing": 4.13,
+"trust": 4.55,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "YouGile",
+"overall": 4.37,
+"ease": 4.46,
+"integrations": 3.88,
+"pricing": 3.77,
+"trust": 3.81,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+},
+{
+"platform": "Weeek",
+"overall": 3.69,
+"ease": 3.89,
+"integrations": 3.72,
+"pricing": 3.66,
+"trust": 3.75,
+"known": true,
+"reasoning": "Выдуманная оценка для примера страницы.",
+"concerns": ""
+}
+],
+"queries": [
+"таск-трекер для небольшой команды отзывы"
+],
+"sources": [
+"https://techreview.example/best-task-trackers"
+]
+}

@@ -1,0 +1,8 @@
+# Свои публикации на чужих площадках — по одному адресу в строке.
+#   https://…        наша статья или пост на сторонней площадке
+#   link https://…   ссылочная (купленная) статья
+#   blog хост        весь блог на этом хосте наш: любая его страница считается нашей публикацией
+https://media.example/articles/how-we-run-kanban
+https://forum.example/threads/task-tracker-for-small-team
+link https://reviews.example/best-task-trackers-2026
+blog taskolet.substack.example

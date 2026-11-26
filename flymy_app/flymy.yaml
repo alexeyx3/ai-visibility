@@ -1,0 +1,27 @@
+# Шаблон приложения FlyMyAI. Имя подставляет scripts/setup.py из project.json (flymy.app).
+# Бюджет проекта (billing.budgets) не ставим: дневной лимит ниже стоимости замера (полный съём идёт за один день) обрывает съём на середине.
+apiVersion: flymy.ai/v1alpha1
+kind: App
+metadata:
+  name: __APP__
+  description: "AI visibility: weekly measurement of brand mentions and brand scores vs competitors"
+runtime:
+  compatibility_date: '2026-11-19'
+access:
+  visibility: private
+billing:
+  payer: owner
+resources:
+  files:
+    kind: Storage
+    type: files
+  dataforseo:
+    kind: ToolAccess
+    mcp: dataforseo
+  collector:
+    kind: Agent
+    model: gpt-6-luna
+    system: ./agents/collector.md
+    tools: ["${resources.dataforseo}"]
+    storage:
+      files: read_write
